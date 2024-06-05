@@ -1,0 +1,44 @@
+{
+  "stepLibrary": {
+    "stepType": {
+      "description": "Description",
+      "numerical": "Numerical input",
+      "freeText": "Free text input",
+      "checkbox": "Checkbox with description"
+    }
+  }, 
+  "button": {
+    "confirm": "Confirm",
+    "delete": "Delete", 
+    "cancel": "Cancel"
+  },
+  "addDocumentModal": {
+    "header": "Add documents"
+  },
+  "newMaintenancePlan": {
+    "intervalUnit": ["Hours", "Days", "Months", "Years"],
+    "intervalUnitMessage": "No items found"
+  },
+  "assignMaintenancePlanModal": {
+    "header": "Assign maintenance plan"
+  },
+  "activePlanWindow": {
+    "dueSoon": "Due soon",
+    "dueOpen": "Open"
+  },
+  "archivedMaintenance": {
+    "leftMainTitle": "Completed maintenances",
+    "rightMainTitle": "Partially completed maintenances",
+    "breadcrumsLink": "Archived maintenances",
+    "titleTableHeader": "Title"
+  },
+  "error": {
+    "general": "An error occurred"
+  },
+  "navigation":{
+    "title": "Maintenance plans"
+  },
+  "tags": {
+    "addTag": "Add tag"
+  }
+}

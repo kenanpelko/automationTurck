@@ -1,0 +1,188 @@
+{
+    "rights":[
+        {
+            "id": "23a9cd5c-2279-5ad3-dc41-7f4c4693721a",
+            "key": "urn:sio:right:asset:asset:create",
+            "description": {
+                "en-EN": "Role \"AssetMgmtCreateAsset\"",
+                "de-DE": "Rolle \"AssetMgmtCreateAsset\""
+            }
+        },
+        {
+            "id": "2793f22f-c64d-0b04-781e-aee3ce3a7a87",
+            "key": "urn:sio:right:asset:asset:delete",
+            "description": {
+                "en-EN": "Role \"AssetMgmtDeleteAsset\"",
+                "de-DE": "Rolle \"AssetMgmtDeleteAsset\""
+            }
+        },
+        {
+            "id": "ff650d3b-d4fe-8020-7f79-2dfcd43de8b2",
+            "key": "urn:sio:right:asset:asset:delete:self",
+            "description": {
+                "en-EN": "Role \"AssetMgmtDeleteAssetOwn\"",
+                "de-DE": "Rolle \"AssetMgmtDeleteAssetOwn\""
+            }
+        },
+        {
+            "id": "cfb64966-0982-52ab-1e8c-0933016a6e0b",
+            "key": "urn:sio:right:asset:asset:edit",
+            "description": {
+                "en-EN": "Role \"AssetMgmtEditAsset\"",
+                "de-DE": "Rolle \"AssetMgmtEditAsset\""
+            }
+        },
+        {
+            "id": "2cce1c49-b03a-08ca-7513-8aac6c2930d3",
+            "key": "urn:sio:right:asset:asset:edit:self",
+            "description": {
+                "en-EN": "Role \"AssetMgmtEditAssetOwn\"",
+                "de-DE": "Rolle \"AssetMgmtEditAssetOwn\""
+            }
+        },
+        {
+            "id": "a94471a7-e8d8-da5d-de44-7de1d3ea9abf",
+            "key": "urn:sio:right:asset:hierarchy",
+            "description": {
+                "en-EN": "Role \"AssetMgmtEditHierarchy\"",
+                "de-DE": "Rolle \"AssetMgmtEditHierarchy\""
+            }
+        },
+        {
+            "id": "4576c023-2bb3-8bbd-0ca5-29c8c941d4f1",
+            "key": "urn:sio:right:asset:type",
+            "description": {
+                "en-EN": "Role \"AssetMgmtEditTypes\"",
+                "de-DE": "Rolle \"AssetMgmtEditTypes\""
+            }
+        },
+        {
+            "id": "c07afb31-74d1-bdf8-e6b0-461a11d83b59",
+            "key": "urn:sio:right:asset:use",
+            "description": {
+                "en-EN": "Role \"AssetMgmtUse\"",
+                "de-DE": "Rolle \"AssetMgmtUse\""
+            }
+        },
+        {
+            "id": "b5419638-9d90-9959-4f1d-76710962187b",
+            "key": "urn:sio:right:cm:edit",
+            "description": {
+                "en-EN": "Role \"CondMonEdit\"",
+                "de-DE": "Rolle \"CondMonEdit\""
+            }
+        },
+        {
+            "id": "3cf1433f-947e-1dfc-8fcd-245a3b6bd207",
+            "key": "urn:sio:right:cm:use",
+            "description": {
+                "en-EN": "Role \"CondMonUse\"",
+                "de-DE": "Rolle \"CondMonUse\""
+            }
+        },
+        {
+            "id": "95c52147-f5d1-b466-0a71-139f51f8e1bd",
+            "key": "urn:sio:right:general:user",
+            "description": {
+                "en-EN": "Default right for a user of the Shopfloor application. Assigned to every user by default.",
+                "de-DE": "Standardrecht für einen Benutzer der Shopfloor-Anwendung. Automatisch jedem Nutzer zugewiesen."
+            }
+        },
+        {
+            "id": "cdfb5e50-2557-b306-f947-23ff4b044d73",
+            "key": "urn:sio:right:grafana:use",
+            "description": {
+                "en-EN": "Role \"GrafanaUse\"",
+                "de-DE": "Rolle \"GrafanaUse\""
+            }
+        },
+        {
+            "id": "02c97b64-acd5-c186-812e-7007339404ca",
+            "key": "urn:sio:right:hub:edit",
+            "description": {
+                "en-EN": "Role \"HubEdit\"",
+                "de-DE": "Rolle \"HubEdit\""
+            }
+        },
+        {
+            "id": "6d3a8592-f851-c48e-da79-12b881926ae8",
+            "key": "urn:sio:right:hub:use",
+            "description": {
+                "en-EN": "Role \"HubUse\"",
+                "de-DE": "Rolle \"HubUse\""
+            }
+        },
+        {
+            "id": "fc363d5e-139c-3fd2-8690-2e94a08730ff",
+            "key": "urn:sio:right:mm:use",
+            "description": {
+                "en-EN": "Role \"MaintMangrUse\"",
+                "de-DE": "Rolle \"MaintMangrUse\""
+            }
+        },
+        {
+            "id": "98c1262b-887b-4e94-3cd6-0084fba1174e",
+            "key": "urn:sio:right:tenant:create",
+            "description": {
+                "en-EN": "Role \"TenantManagementCreate\"",
+                "de-DE": "Rolle \"TenantManagementCreate\""
+            }
+        },
+        {
+            "id": "4581c71e-00eb-8bb9-c6d2-a4c31353575e",
+            "key": "urn:sio:right:tenant:use",
+            "description": {
+                "en-EN": "Role \"TenantManagementUse\"",
+                "de-DE": "Rolle \"TenantManagementUse\""
+            }
+        },
+        {
+            "id": "fa27094c-4072-9ae3-e71f-43e3e31f78fc",
+            "key": "urn:sio:right:user:create",
+            "description": {
+                "en-EN": "Role \"UserManagementCreate\"",
+                "de-DE": "Rolle \"UserManagementCreate\""
+            }
+        },
+        {
+            "id": "c27ef61c-7902-8219-1cb1-a179cf97336d",
+            "key": "urn:sio:right:user:delete",
+            "description": {
+                "en-EN": "Role \"UserManagementDelete\"",
+                "de-DE": "Rolle \"UserManagementDelete\""
+            }
+        },
+        {
+            "id": "5a79ce15-30b2-08fe-a355-98bec192cac8",
+            "key": "urn:sio:right:user:edit",
+            "description": {
+                "en-EN": "Role \"UserManagementEdit\"",
+                "de-DE": "Rolle \"UserManagementEdit\""
+            }
+        },
+        {
+            "id": "52ef394b-c5b9-c6ef-0feb-62b684c989d9",
+            "key": "urn:sio:right:user:edit:self",
+            "description": {
+                "en-EN": "Role \"UserManagementEditMe\"",
+                "de-DE": "Rolle \"UserManagementEditMe\""
+            }
+        },
+        {
+            "id": "a66e85ca-631d-96f6-30a0-84c7cf083a6f",
+            "key": "urn:sio:right:user:roles",
+            "description": {
+                "en-EN": "Role \"UserManagementAssignRoles\"",
+                "de-DE": "Rolle \"UserManagementAssignRoles\""
+            }
+        },
+        {
+            "id": "3ee429f5-cbad-da44-9a4b-e65ca74ef471",
+            "key": "urn:sio:right:user:use",
+            "description": {
+                "en-EN": "Role \"UserManagementUse\"",
+                "de-DE": "Rolle \"UserManagementUse\""
+            }
+        }
+    ]
+}

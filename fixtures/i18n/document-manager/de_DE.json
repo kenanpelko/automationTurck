@@ -1,0 +1,9 @@
+{
+    "buttons": {
+        "addDocument": "Dokument hinzufügen",
+        "addDocumentCategory": "Add document category",
+        "openDocumentCard": "Dokumente",
+        "saveChanges": "Save changes",
+        "deleteDocument": "Löschen"
+    }
+}

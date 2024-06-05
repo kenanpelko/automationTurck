@@ -1,0 +1,37 @@
+
+{
+    "usersManagementPage":  {
+        "usersManagement": "User management",
+        "allUsers": "All users",
+        "rolesRights": "Roles & Rights",
+        "createNewUser": "Create a new user",
+        "noUser": "No users found",
+        "search": "Search"
+    },
+    "createNewUserForm":{
+        "userName": "Username",
+        "firstName": "First name",
+        "surname": "Surname",
+        "eMail": "E-mail",
+        "role": "Role",
+        "setPass": "Set a new password",
+        "repeatPass": "Repeat password",
+        "clearImg": "Clear image",
+        "uploadImg": "Upload image",
+        "cancel": "Cancel",
+        "save": "Save"
+    },
+    "rolesRightsPage":  {
+        "usersManagement": "User management",
+        "allUsers": "All users",
+        "rolesRights": "Roles & Rights",
+        "createNewrole": "Create a new role",
+        "noRole": "No roles found"
+    },
+    "createNewRoleForm":{
+        "name": "Name",
+        "assignedRights": "Assigned rights:",
+        "cancel": "Cancel",
+        "save": "Save"
+    }
+}

@@ -1,0 +1,42 @@
+{
+"generalSettings":{
+    "header":{
+        "settingsTitle":"Settings",
+        "generalSettings": "General settings",
+        "tileConfiguration": "Tile configuration",
+        "cancel": "Cancel",
+        "saveChanges": "Save changes"
+    },
+    "elements":{
+        "logo": "Logo",
+        "primaryColor": "Primary color",
+        "secondaryColor": "Secondary Color",
+        "lightWelcomeText": "Light welcome text?",
+        "backgroundImage": "Background image"
+    }
+},
+"tileConfiguration":{
+    "header":{
+        "settingsTitle":"Settings",
+        "generalSettings": "General settings",
+        "tileConfiguration": "Tile configuration",
+        "cancel": "Cancel",
+        "addTile": "Add tile",
+        "saveChanges": "Save changes"
+    },
+    "elements":{
+        "tileName": "Tile name",
+        "appURL": "App url",
+        "tileColor": "Tile color",
+        "description": "Description",
+        "icon": "Icon",
+        "tileTextColor": "Tile text color",
+        "integratedView": "Integrated view"
+    }
+},
+        
+"buttons": {
+    "uploadFile": "Upload file",
+    "deleteFile": "Delete file"
+}
+}

@@ -1,0 +1,45 @@
+{
+    "stepLibrary": {
+      "stepType": {
+        "description": "Beschreibung",
+        "numerical": "Numerische Eingabe",
+        "freeText": "Freitexteingabe",
+        "checkbox": "Checkbox mit Beschreibung"
+      }
+    }, 
+    "button": {
+      "confirm": "Bestätigen ",
+      "delete": "Delete", 
+      "cancel": "Abbrechen"
+    },
+    "addDocumentModal": {
+      "header": "Dokumente hinzufügen"
+    },
+    "newMaintenancePlan": {
+      "intervalUnit": ["Hours", "Days", "Months", "Years"],
+      "intervalUnitMessage": "No items found"
+    },
+    "assignMaintenancePlanModal": {
+      "header": "Wartungsplan zuordnen"
+    },
+    "activePlanWindow": {
+      "dueSoon": "Bald fällig ",
+      "dueOpen": "Offen "
+    },
+    "archivedMaintenance": {
+      "leftMainTitle": "Vollständig abgeschlossene Wartungen",
+      "rightMainTitle": "Teilweise abgeschlossene Wartungen",
+      "breadcrumsLink": "Archivierte Wartungen ",
+      "titleTableHeader": "Title" 
+    },
+    "error": {
+      "general": "Es ist ein Fehler aufgetreten"
+    },
+    "navigation":{
+      "title": "Wartungspläne"
+    },
+    "tags": {
+      "addTag": "Tag hinzufügen"
+    }
+  }
+  

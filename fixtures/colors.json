@@ -1,0 +1,10 @@
+{
+    "activeStepMarks": {
+        "black": "rgb(0, 0, 0)",
+        "green": "rgb(40, 167, 69)",
+        "red": "rgb(220, 53, 69)",
+        "orange": "rgb(242, 159, 3)",
+        "grey": "rgb(206, 206, 206)",
+        "yellow": "rgb(255, 204, 0)"
+    }
+}

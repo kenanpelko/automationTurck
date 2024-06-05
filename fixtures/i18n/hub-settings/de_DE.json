@@ -1,0 +1,43 @@
+{
+"generalSettings":{
+    "header":{
+        "settingsTitle":"Einstellungen",
+        "generalSettings": "Generelle Einstellungen",
+        "tileConfiguration": "Kachel Konfiguration",
+        "cancel": "Abbrechen",
+        "saveChanges": "Speichern"
+    },
+    "elements":{
+        "logo": "Logo",
+        "primaryColor": "Primärfarbe",
+        "secondaryColor": "Sekundärfarbe",
+        "lightWelcomeText": "Heller Willkommenstext?",
+        "backgroundImage": "Hintergrund Bild"
+    }
+},
+"tileConfiguration":{
+    "header":{
+        "settingsTitle":"Einstellungen",
+        "generalSettings": "Generelle Einstellungen",
+        "tileConfiguration": "Kachel Konfiguration",
+        "cancel": "Abbrechen",
+        "addTile": "Kachel hinzufügen",
+        "saveChanges": "Speichern"
+    },
+    "elements":{
+        "tileName": "Kachelname",
+        "appURL": "App Url",
+        "tileColor": "Kachelfarbe",
+        "description": "Beschreibung",
+        "icon": "Icon",
+        "tileTextColor": "Kacheltextfarbe",
+        "integratedView": "Integrierte Ansicht"
+    }
+},
+
+
+    "buttons": {
+        "uploadFile": "Upload file",
+        "deleteFile": "Delete file"
+    }
+}

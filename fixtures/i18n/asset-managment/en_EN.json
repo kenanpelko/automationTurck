@@ -1,0 +1,140 @@
+{
+    "menu": {
+        "allocatedAssets": "Allocated assets",
+        "assetPool": "Asset pool",
+        "assetTypes": "Asset types",
+        "maps": "Maps",
+        "deviceManagement": " Device management ",
+        "machineVariables": " Machine variables ",
+        "search": "Search...",
+        "createNewAsset": "Create new asset",
+        "createNewAssetType": "Create new asset type",
+        "createnewmachinevariable": "Create new machine variable"
+    },
+    "assetPool": {
+        "table": {
+            "tableHeader": {
+                "name": "Name",
+                "type": "Type",
+                "ID": "ID",
+                "documents": "Documents",
+                "createdUpdatedAt": "Created/Updated at"
+            },
+            "deletePopup": "Delete asset?",
+            "noAssetFound": "No assets found",
+            "deleteAsset": "Delete"
+        },
+        "createNewAsset": {
+            "titles": {
+                "assetAliases": "Asset aliases",
+                "dynamicProperties": "Dynamic properties",
+                "documents": "Documents",
+                "assetHistory": "Asset history"
+            },
+            "aliasTypes": {
+                "general": "General",
+                "qrCode": "QR-Code"
+            },
+            "assetTypes": {
+                "kmw": {
+                    "name": "KMW",
+                    "isa95Type": "PRODUCTION_UNIT"
+                },
+                "generic": {
+                    "name": "Generic",
+                    "isa95Type": "NONE"
+                }
+            }
+        },
+        "aliasTable": {
+            "popupTitle": "Add new alias"
+        }
+    },
+    "assetTypes": {
+        "table": {
+            "tableHeader": {
+                "name": "Name",
+                "isa95Type": "ISA95 type",
+                "parentAssetType": "Parent asset type",
+                "lastChanged": "Last changed"
+            },
+            "noAssetTypeFound": "No asset types found"
+        },
+        "deleteAssetTypeFromMenu": {
+            "title": "Delete asset type?",
+            "message": "Deleting an asset type will permanently remove it from the list"
+        },
+        "createNewAssetType": {
+            "titles": {
+                "assetTypeDetails": "Asset type details",
+                "dynamicProperties": "Dynamic properties",
+                "assignedAssets": "Assigned assets"
+            },
+            "assetTypes": {
+                "allgemein": "Allgemein",
+                "kmw": "KMW"
+            },
+            "isa95Types": {
+                "enterprise": "ENTERPRISE",
+                "site": "SITE"
+            }
+        },
+        "assetTypeDetails": {
+            "assetTypeName": "Asset type name",
+            "Parent asset": "Parent asset",
+            "isa95Type": "ISA95 type",
+            "description": "Description"
+        },
+        "addDynamicProperties": {
+            "addNewPropertyHeader": "Add new property",
+            "propertyName": "Property name",
+            "defaultValue": "Default Value",
+            "keyTitle": "Key",
+            "typeDropdown": "Type:*",
+            "mandatoryCheckbox": "Mandatory",
+            "displayCheckbox": "Display"
+        },
+        "propertyType": {
+            "strng": "STRING",
+            "number": "NUMBER"
+        },
+        "deletePropertyPopup": {
+            "message": "Deleting an property will permanently remove it from the list",
+            "header": "Delete property?"
+        }
+    },
+    "machineVariables":{
+        "table":{
+            "tableHeader":{
+                "name": "Name",
+                "parameter": "Parameter",
+                "assetType": "AssetType",
+                "unit": "Unit"
+            },
+            "edit": "Edit",
+            "delete": "Delete"
+        },
+
+        "deleteMachineVariable":{
+            "title": "Delete machine variable?",
+            "message": "Deleting a machine variable will permanently remove it from the list"
+        },
+
+        "addNewMachineVariable":{
+            "addTitle": "Add machine variable",
+            "updateTitle": "Update machine variable",
+            "name": "Name*",
+            "parameterID": "Parameter id*",
+            "unit": "Unit",
+            "assetTypeID": "Asset type id*",
+            "addButton": "ADD MACHINE VARIABLE",
+            "updateButton": "UPDATE MACHINE VARIABLE",
+
+            "parameters":{
+                "onOff": "t3k_OnOff/run",
+                "tempMeasurementMx": "c8y_TemperatureMeasurement/mxCc",
+                "tempMeasurementAmbient": "c8y_TemperatureMeasurement/ambient"
+            }
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "usersManagementPage":  {
+        "usersManagement": "Nutzerverwaltun",
+        "allUsers": "Alle Benutzer",
+        "rolesRights": "Rollen & Rechte",
+        "createNewUser": "Neuen Nutzer erstellen",
+        "noUser": "Keine Benutzer gefunden",
+        "search": "Suche"
+    },
+    "createNewUserForm":{
+        "userName": "Benutzer",
+        "firstName": "Vorname",
+        "surname": "Nachname",
+        "eMail": "E-Mail",
+        "role": "Rolle",
+        "setPass": "Neues Passwort festlegen",
+        "repeatPass": "Passwort wiederholen",
+        "clearImg": "Bild löschen",
+        "uploadImg": "Bild uploaden",
+        "cancel": "Abbrechen",
+        "save": "Speichern"
+    },
+    "rolesRightsPage":  {
+        "usersManagement": "Nutzerverwaltung",
+        "allUsers": "Alle Benutzer",
+        "rolesRights": "Rollen & Rechte",
+        "createNewrole": "Neue Rolle erstellen",
+        "noRole": "Keine Rollen gefunden"
+    },
+    "createNewRoleForm":{
+        "name": "Name",
+        "assignedRights": "Zugewiesene Rechte:",
+        "cancel": "Abbrechen",
+        "save": "Speichern"
+    }
+}
